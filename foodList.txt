@@ -2,7 +2,7 @@ Welcome to CKV Restaurant
 
 1.Kheer
 2.pasta
-3.Chicken Fry
+3.Chicken 
 
 
 
