@@ -6,4 +6,5 @@ Welcome to CKV Restaurant
 4.Pizza
 
 
-Thank you.
+Thank you./
+
